@@ -18,7 +18,7 @@ public class Lista06Exer46 {
 		}
 		
 		if(contador==2)
-			System.out.print("Eh primo");
+			System.out.print("Eh primo ");
 		else System.out.print("Nau eh primo");
 		
 	}
