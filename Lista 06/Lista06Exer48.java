@@ -14,9 +14,7 @@ public class Lista06Exer48 {
 			contador=0;
 		
 			for(y=1;y<=i;y++){
-			
 				if(i%y==0)contador++;
-				//System.out.print(contador);
 			}
 			
 			if(contador==2){
